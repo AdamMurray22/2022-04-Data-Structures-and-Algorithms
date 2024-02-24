@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=ArrayListTreeNode
+comment1.params=newElement\ newParent\ newChildren
+comment1.target=ArrayListTreeNode(java.lang.Object,\ TreeNode,\ java.util.List)
+comment2.params=
+comment2.target=TreeNode\ getParent()
+comment3.params=
+comment3.target=java.lang.Object\ element()
+comment4.params=element
+comment4.target=void\ setElement(java.lang.Object)
+comment5.params=
+comment5.target=java.util.List\ getChildren()
+comment6.params=newChild
+comment6.target=void\ addChild(TreeNode)
+comment7.params=child
+comment7.target=boolean\ removeChild(TreeNode)
+numComments=8

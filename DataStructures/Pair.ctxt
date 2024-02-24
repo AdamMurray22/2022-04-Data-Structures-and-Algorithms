@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=Pair
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Pair\ here.\r\n\r\n\ @author\ (your\ name)\r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=e1\ e2
+comment1.target=Pair(java.lang.Object,\ java.lang.Object)
+comment2.params=
+comment2.target=java.lang.Object\ getE1()
+comment3.params=
+comment3.target=java.lang.Object\ getE2()
+numComments=4

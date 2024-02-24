@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=PositionListStack
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ PositionListStack\ here.\r\n\r\n\ @author\ (your\ name)\r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=
+comment1.target=PositionListStack()
+comment2.params=element
+comment2.target=void\ push(java.lang.Object)
+comment3.params=
+comment3.target=java.lang.Object\ pop()
+comment4.params=
+comment4.target=java.lang.Object\ top()
+comment5.params=
+comment5.target=int\ size()
+comment6.params=
+comment6.target=boolean\ isEmpty()
+numComments=7

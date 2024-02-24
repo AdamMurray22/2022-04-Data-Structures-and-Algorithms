@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=NodeQueue
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ NodeQueue\ here.\r\n\r\n\ @author\ (your\ name)\r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=
+comment1.target=NodeQueue()
+comment2.params=
+comment2.target=int\ size()
+comment3.params=
+comment3.target=boolean\ isEmpty()
+comment4.params=
+comment4.target=java.lang.Object\ front()
+comment5.params=
+comment5.target=java.lang.Object\ dequeue()
+comment6.params=element
+comment6.target=void\ enqueue(java.lang.Object)
+numComments=7

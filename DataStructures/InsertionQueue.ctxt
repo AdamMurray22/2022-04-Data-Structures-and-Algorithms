@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=InsertionQueue
+comment1.params=
+comment1.target=InsertionQueue()
+comment2.params=key\ value
+comment2.target=Entry\ insert(java.lang.Object,\ java.lang.Object)
+comment3.params=
+comment3.target=Entry\ removeMin()
+comment4.params=
+comment4.target=Entry\ min()
+comment5.params=key
+comment5.target=DNodeAT\ findPosition(java.lang.Object)
+comment6.params=
+comment6.target=int\ size()
+comment7.params=
+comment7.target=boolean\ isEmpty()
+numComments=8

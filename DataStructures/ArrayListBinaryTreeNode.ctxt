@@ -1,0 +1,24 @@
+#BlueJ class context
+comment0.target=ArrayListBinaryTreeNode
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ ArrayListBinaryTreeNode\ here.\r\n\r\n\ @author\ (your\ name)\r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=newElement\ newParent\ leftChild\ rightChild
+comment1.target=ArrayListBinaryTreeNode(java.lang.Object,\ BinaryTreeNode,\ BinaryTreeNode,\ BinaryTreeNode)
+comment10.params=parentNode
+comment10.target=void\ setParent(BinaryTreeNode)
+comment2.params=
+comment2.target=java.lang.Object\ element()
+comment3.params=element
+comment3.target=void\ setElement(java.lang.Object)
+comment4.params=
+comment4.target=BinaryTreeNode\ left()
+comment5.params=
+comment5.target=BinaryTreeNode\ right()
+comment6.params=
+comment6.target=BinaryTreeNode\ getParent()
+comment7.params=leftNode
+comment7.target=void\ setLeft(BinaryTreeNode)
+comment8.params=rightNode
+comment8.target=void\ setRight(BinaryTreeNode)
+comment9.params=
+comment9.target=java.util.List\ getChildren()
+numComments=11

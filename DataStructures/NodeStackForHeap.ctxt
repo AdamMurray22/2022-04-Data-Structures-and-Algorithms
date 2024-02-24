@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=NodeStackForHeap
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ NodeStackForHeap\ here.\r\n\r\n\ @author\ (your\ name)\r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=
+comment1.target=NodeStackForHeap()
+comment2.params=
+comment2.target=int\ size()
+comment3.params=
+comment3.target=boolean\ isEmpty()
+comment4.params=
+comment4.target=HeapStackNode\ topNode()
+comment5.params=
+comment5.target=HeapStackNode\ popNode()
+comment6.params=node
+comment6.target=void\ pushNode(HeapStackNode)
+comment7.params=
+comment7.target=HeapStackNode\ getNextAdd()
+comment8.params=
+comment8.target=void\ incrementAdd()
+comment9.params=
+comment9.target=void\ decrementAdd()
+numComments=10

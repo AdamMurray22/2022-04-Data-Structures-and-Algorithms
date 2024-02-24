@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=QuickSort
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ QuickSort\ here.\r\n\r\n\ @author\ (your\ name)\r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=elements
+comment1.target=int[]\ sort(int[])
+comment2.params=elements\ pivot
+comment2.target=java.util.List\ partition(java.util.List,\ int)
+comment3.params=elems\ min\ max\ pivot
+comment3.target=int[]\ inPlace(int[],\ int,\ int,\ int)
+numComments=4

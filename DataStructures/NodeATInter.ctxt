@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=NodeATInter
+comment0.text=\r\n\ Write\ a\ description\ of\ interface\ NodeATInter\ here.\r\n\r\n\ @author\ (your\ name)\r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=
+comment1.target=java.lang.Object\ getElement()
+comment2.params=
+comment2.target=NodeATInter\ getNext()
+comment3.params=newElem
+comment3.target=void\ setElement(java.lang.Object)
+comment4.params=newNext
+comment4.target=void\ setNext(NodeATInter)
+numComments=5

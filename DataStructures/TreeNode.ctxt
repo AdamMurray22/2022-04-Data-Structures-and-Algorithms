@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=TreeNode
+comment0.text=\r\n\ Write\ a\ description\ of\ interface\ TreeNode\ here.\r\n\r\n\ @author\ (your\ name)\r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=newChild
+comment1.target=void\ addChild(TreeNode)
+comment2.params=child
+comment2.target=boolean\ removeChild(TreeNode)
+comment3.params=
+comment3.target=java.util.List\ getChildren()
+comment4.params=element
+comment4.target=void\ setElement(java.lang.Object)
+comment5.params=
+comment5.target=TreeNode\ getParent()
+numComments=6

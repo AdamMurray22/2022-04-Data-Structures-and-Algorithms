@@ -1,0 +1,27 @@
+#BlueJ class context
+comment0.target=PositionListAT
+comment1.params=
+comment1.target=int\ size()
+comment10.params=position\ element
+comment10.target=void\ addBefore(PositionAT,\ java.lang.Object)
+comment11.params=position
+comment11.target=java.lang.Object\ remove(PositionAT)
+comment12.params=position\ element
+comment12.target=java.lang.Object\ set(PositionAT,\ java.lang.Object)
+comment2.params=
+comment2.target=boolean\ isEmpty()
+comment3.params=
+comment3.target=PositionAT\ first()
+comment4.params=
+comment4.target=PositionAT\ last()
+comment5.params=position
+comment5.target=PositionAT\ next(PositionAT)
+comment6.params=position
+comment6.target=PositionAT\ prev(PositionAT)
+comment7.params=element
+comment7.target=void\ addFirst(java.lang.Object)
+comment8.params=element
+comment8.target=void\ addLast(java.lang.Object)
+comment9.params=position\ element
+comment9.target=void\ addAfter(PositionAT,\ java.lang.Object)
+numComments=13

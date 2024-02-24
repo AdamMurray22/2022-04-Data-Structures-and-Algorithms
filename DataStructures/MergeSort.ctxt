@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=MergeSort
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ MergeSort\ here.\r\n\r\n\ @author\ (your\ name)\r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=elements
+comment1.target=java.util.List\ mergeSort(java.util.List)
+comment2.params=elements\ newSize
+comment2.target=Pair\ partition(java.util.List,\ int)
+comment3.params=elems1\ elems2
+comment3.target=java.util.List\ merge(java.util.List,\ java.util.List)
+numComments=4

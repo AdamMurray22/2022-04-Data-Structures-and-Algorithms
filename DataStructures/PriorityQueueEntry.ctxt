@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=PriorityQueueEntry
+comment1.params=key\ value
+comment1.target=PriorityQueueEntry(java.lang.Object,\ java.lang.Object)
+comment2.params=
+comment2.target=java.lang.Object\ getKey()
+comment3.params=
+comment3.target=java.lang.Object\ getValue()
+numComments=4

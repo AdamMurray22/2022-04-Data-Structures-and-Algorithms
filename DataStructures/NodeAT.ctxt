@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=NodeAT
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ NodeAT\ here.\r\n\r\n\ @author\ (your\ name)\r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=e\ n
+comment1.target=NodeAT(java.lang.Object,\ NodeATInter)
+comment2.params=
+comment2.target=NodeAT()
+comment3.params=
+comment3.target=java.lang.Object\ getElement()
+comment4.params=
+comment4.target=NodeATInter\ getNext()
+comment5.params=newElem
+comment5.target=void\ setElement(java.lang.Object)
+comment6.params=newNext
+comment6.target=void\ setNext(NodeATInter)
+numComments=7

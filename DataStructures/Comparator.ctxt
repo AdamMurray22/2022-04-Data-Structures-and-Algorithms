@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=Comparator
+comment0.text=\r\n\ Write\ a\ description\ of\ interface\ Comparator\ here.\r\n\r\n\ @author\ (your\ name)\r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=key1\ key2
+comment1.target=int\ compare(java.lang.Object,\ java.lang.Object)
+comment2.params=object
+comment2.target=boolean\ equals(java.lang.Object)
+numComments=3

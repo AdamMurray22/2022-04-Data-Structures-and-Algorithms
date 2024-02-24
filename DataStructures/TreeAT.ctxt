@@ -1,0 +1,26 @@
+#BlueJ class context
+comment0.target=TreeAT
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ TreeAT\ here.\r\n\r\n\ @author\ (your\ name)\r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=
+comment1.target=TreeNodeCombine\ root()
+comment10.params=
+comment10.target=java.util.List\ position()
+comment11.params=v\ element
+comment11.target=java.lang.Object\ replace(PositionAT,\ java.lang.Object)
+comment2.params=v
+comment2.target=TreeNodeCombine\ parent(PositionAT)
+comment3.params=v
+comment3.target=java.util.List\ children(PositionAT)
+comment4.params=v
+comment4.target=boolean\ isExternal(PositionAT)
+comment5.params=v
+comment5.target=boolean\ isInternal(PositionAT)
+comment6.params=v
+comment6.target=boolean\ isRoot(PositionAT)
+comment7.params=
+comment7.target=int\ size()
+comment8.params=
+comment8.target=boolean\ isEmpty()
+comment9.params=
+comment9.target=java.util.List\ iterator()
+numComments=12

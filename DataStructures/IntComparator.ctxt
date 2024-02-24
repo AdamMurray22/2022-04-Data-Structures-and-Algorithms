@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=IntComparator
+comment1.params=key1\ key2
+comment1.target=int\ compare(java.lang.Object,\ java.lang.Object)
+comment2.params=object
+comment2.target=boolean\ equals(java.lang.Object)
+numComments=3

@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=ArrayQueueAT
+comment1.params=maxSize
+comment1.target=ArrayQueueAT(int)
+comment2.params=
+comment2.target=int\ size()
+comment3.params=
+comment3.target=boolean\ isEmpty()
+comment4.params=
+comment4.target=java.lang.Object\ front()
+comment5.params=
+comment5.target=java.lang.Object\ dequeue()
+comment6.params=element
+comment6.target=void\ enqueue(java.lang.Object)
+numComments=7

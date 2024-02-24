@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=DNodeAT
+comment1.params=newPrev\ newNext\ element
+comment1.target=DNodeAT(DNodeAT,\ DNodeAT,\ java.lang.Object)
+comment2.params=
+comment2.target=java.lang.Object\ element()
+comment3.params=
+comment3.target=DNodeAT\ getNext()
+comment4.params=
+comment4.target=DNodeAT\ getPrev()
+comment5.params=newElement
+comment5.target=void\ setElement(java.lang.Object)
+comment6.params=node
+comment6.target=void\ setNext(DNodeAT)
+comment7.params=node
+comment7.target=void\ setPrev(DNodeAT)
+numComments=8

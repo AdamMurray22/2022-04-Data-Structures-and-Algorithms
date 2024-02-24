@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=CompleteBinaryTree
+comment0.text=\r\n\ Write\ a\ description\ of\ interface\ CompleteBinaryTree\ here.\r\n\r\n\ @author\ (your\ name)\r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=element
+comment1.target=BinaryTreeNode\ add(java.lang.Object)
+comment2.params=
+comment2.target=java.lang.Object\ remove()
+numComments=3

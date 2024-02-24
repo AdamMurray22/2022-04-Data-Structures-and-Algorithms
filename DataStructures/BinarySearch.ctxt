@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.target=BinarySearch
+comment1.params=key\ entries\ max
+comment1.target=Entry\ search(java.lang.Object,\ Entry[],\ int)
+numComments=2

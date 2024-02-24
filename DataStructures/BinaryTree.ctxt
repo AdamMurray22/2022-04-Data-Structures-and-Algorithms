@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=BinaryTree
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ BinaryTree\ here.\r\n\r\n\ @author\ (your\ name)\r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=
+comment1.target=BinaryTreeNode\ root()
+comment2.params=v
+comment2.target=BinaryTreeNode\ left(PositionAT)
+comment3.params=v
+comment3.target=BinaryTreeNode\ right(PositionAT)
+comment4.params=v
+comment4.target=boolean\ hasLeft(PositionAT)
+comment5.params=v
+comment5.target=boolean\ hasRight(PositionAT)
+numComments=6

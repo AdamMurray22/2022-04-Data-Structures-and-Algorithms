@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.target=ArrayIndexListAT
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ ArrayIndexListAT\ here.\r\n\r\n\ @author\ (your\ name)\r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=
+comment1.target=ArrayIndexListAT()
+comment2.params=
+comment2.target=int\ size()
+comment3.params=
+comment3.target=boolean\ isEmpty()
+comment4.params=index\ element
+comment4.target=void\ add(int,\ java.lang.Object)
+comment5.params=
+comment5.target=void\ increaseCapacityDoubling()
+comment6.params=index
+comment6.target=java.lang.Object\ get(int)
+comment7.params=index
+comment7.target=java.lang.Object\ remove(int)
+comment8.params=index\ element
+comment8.target=java.lang.Object\ set(int,\ java.lang.Object)
+numComments=9
